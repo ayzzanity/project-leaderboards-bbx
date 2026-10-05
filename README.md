@@ -1,2 +1,2 @@
-# project-pincers-bbx
+# project-leaderboards-bbx
 Local BBX Leaderboard for ZC BBX
